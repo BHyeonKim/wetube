@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BHyeonKim/wetube.git"
+    "url": "git+https://github.com/BHyeonKim/WeTube.git"
   },
   "author": "BoHyeon",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BHyeonKim/wetube/issues"
+    "url": "https://github.com/BHyeonKim/WeTube/issues"
   },
-  "homepage": "https://github.com/BHyeonKim/wetube#readme",
+  "homepage": "https://github.com/BHyeonKim/WeTube#readme",
   "dependencies": {
     "@babel/core": "^7.8.4",
     "@babel/node": "^7.8.4",
@@ -25,7 +25,8 @@
     "core-js": "^3.6.4",
     "express": "^4.17.1",
     "helmet": "^3.21.2",
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "pug": "^2.0.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
