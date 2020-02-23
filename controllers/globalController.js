@@ -1,5 +1,0 @@
-export const home = (req,res) => res.send("It's home")
-export const join = (req,res) => res.send("It's join")
-export const login = (req,res) => res.send("It's login")
-export const logout = (req,res) => res.send("It's logout")
-export const search = (req,res) => res.send("It's search")
